@@ -18,13 +18,13 @@
 			{
 				"name": "postgres",
 				"tag": "10-alpine",
-				"digest": "5f41a1d484386db3633a432aa806a02135f6c9baa9d95594652ee24382b7f5f9",
+				"digest": "de0ccbde32615e9d32752d0f0b89fe68a88f3d51a9bf0dc66435a199feda640d",
 				"service": "db"
 			},
 			{
 				"name": "metasploitframework/metasploit-framework",
 				"tag": "latest",
-				"digest": "c486c9f06076d2cded4d92baf59dfca2dba6c99e8678da6381816c0bc6fe22de",
+				"digest": "eeb69444b22903203250b41dd85248484f8a65a1d1122348fa7a552a8667e1af",
 				"service": "ms"
 			}
 		]
