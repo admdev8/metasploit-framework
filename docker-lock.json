@@ -18,7 +18,7 @@
 			{
 				"name": "postgres",
 				"tag": "10-alpine",
-				"digest": "e6f8cb51e879af057934186869f7a1f6409b113762ebc5406d60f127d811a630",
+				"digest": "5391429bd57d0b7848e63e197fd8ad10002781ce1e40add0ab1d485f141c11d4",
 				"service": "db"
 			},
 			{
