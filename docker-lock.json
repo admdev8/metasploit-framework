@@ -24,7 +24,7 @@
 			{
 				"name": "metasploitframework/metasploit-framework",
 				"tag": "latest",
-				"digest": "bed62b2e2a410b9909cb0fec8683e742e3d9bb33b2c357d32c287d91216f896f",
+				"digest": "22b5a90e1580ca9c4edb5fffb213fd46b630873e286ede38881e8c796fc2d7f3",
 				"service": "ms"
 			}
 		]
