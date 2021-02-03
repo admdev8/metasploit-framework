@@ -4,12 +4,12 @@
 			{
 				"name": "ruby",
 				"tag": "2.5.3-alpine3.7",
-				"digest": "c95eee04fac35a7e85d4529eda9c0933b05372ca9ed8fc7eaaff81d061591441"
+				"digest": ""
 			},
 			{
 				"name": "ruby",
 				"tag": "2.5.3-alpine3.7",
-				"digest": "c95eee04fac35a7e85d4529eda9c0933b05372ca9ed8fc7eaaff81d061591441"
+				"digest": ""
 			}
 		]
 	},
@@ -24,7 +24,7 @@
 			{
 				"name": "metasploitframework/metasploit-framework",
 				"tag": "latest",
-				"digest": "22b5a90e1580ca9c4edb5fffb213fd46b630873e286ede38881e8c796fc2d7f3",
+				"digest": "1e0b5d5c4fa4e6e21c2c5418c9be294b5361c2e1ca447034b9a062fbe06e367d",
 				"service": "ms"
 			}
 		]
