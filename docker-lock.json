@@ -4,12 +4,12 @@
 			{
 				"name": "ruby",
 				"tag": "2.5.3-alpine3.7",
-				"digest": ""
+				"digest": "c95eee04fac35a7e85d4529eda9c0933b05372ca9ed8fc7eaaff81d061591441"
 			},
 			{
 				"name": "ruby",
 				"tag": "2.5.3-alpine3.7",
-				"digest": ""
+				"digest": "c95eee04fac35a7e85d4529eda9c0933b05372ca9ed8fc7eaaff81d061591441"
 			}
 		]
 	},
@@ -18,13 +18,13 @@
 			{
 				"name": "postgres",
 				"tag": "10-alpine",
-				"digest": "",
+				"digest": "70392ed0f44353610c0e2d0f2ea873b430b6336d6a3445befb47dbe38a03e500",
 				"service": "db"
 			},
 			{
 				"name": "metasploitframework/metasploit-framework",
 				"tag": "latest",
-				"digest": "",
+				"digest": "e58d994e3ea21363a1cca00a17432678b6aa09f57e312f47734a0664eef74909",
 				"service": "ms"
 			}
 		]
