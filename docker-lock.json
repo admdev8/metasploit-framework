@@ -1,0 +1,32 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "ruby",
+				"tag": "2.5.3-alpine3.7",
+				"digest": "c95eee04fac35a7e85d4529eda9c0933b05372ca9ed8fc7eaaff81d061591441"
+			},
+			{
+				"name": "ruby",
+				"tag": "2.5.3-alpine3.7",
+				"digest": "c95eee04fac35a7e85d4529eda9c0933b05372ca9ed8fc7eaaff81d061591441"
+			}
+		]
+	},
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "postgres",
+				"tag": "10-alpine",
+				"digest": "84f501a974cd9f2b708130d265b70db25a1657f94bd568a56c149398dc0943ac",
+				"service": "db"
+			},
+			{
+				"name": "metasploitframework/metasploit-framework",
+				"tag": "latest",
+				"digest": "0b22b96bf24f27c32b8d23b25ecdfe99be70a597835c7cac135222a5af54b6f8",
+				"service": "ms"
+			}
+		]
+	}
+}
